@@ -30,7 +30,29 @@
       { "id": 22, "pregunta": "¿Puedo hacer la inmersión a mi ritmo?", "respuesta": "La inmersión tiene fechas específicas para las entregas, pero puedes realizar las actividades en tu propio horario." },
       { "id": 23, "pregunta": "¿Dónde aclaro mis dudas?", "respuesta": "En el servidor de Discord del programa." },
       { "id": 24, "pregunta": "¿Recibiré más información?", "respuesta": "Sí, el equipo enviará instrucciones detalladas a lo largo de la fase." },
-      { "id": 25, "pregunta": "¿Cómo contacto a soporte?", "respuesta": "Puedes escribir a contacto-one@aluracursos.com o contactar a nuestras CMs Leti Farias o Roby." }
+      { "id": 25, "pregunta": "¿Cómo contacto a soporte?", "respuesta": "Puedes escribir a contacto-one@aluracursos.com o contactar a nuestras CMs Leti Farias o Roby." },
+      { "id": 26, "pregunta": "¿Cómo contacto a soporte si mi duda no está aquí?", "respuesta": "Si no encontraste la respuesta a tu pregunta, por favor contacta a soporte escribiendo a contacto-one@aluracursos.com o contacta directamente a nuestras CMs Leti Farias o Wil en el servidor de Discord." },
+      { "id": 27, "pregunta": "¿De qué trata la próxima fase después de la inmersión y qué aprenderemos?", "respuesta": "La inmersión es una previa de todo que aprenderán después. Aprenderán más a fondo acerca de IA Generativa, Agentes de IA, RAG, embedding, desarrollo, automación e inteligencia de datos con IA y todo eso."},
+      {
+      "id": 28,
+      "pregunta": "¿De qué trata el Cursos Tech?",
+      "respuesta": "Es la fase de especialización técnica del programa ONE. En esta etapa tendrás acceso a rutas de aprendizaje más profundas en la plataforma de Alura para consolidar tus habilidades en IA."
+      },
+      {
+      "id": 29,
+      "pregunta": "¿Qué horario debo reservar para la inmersión?",
+      "respuesta": "Aunque puedes realizar las actividades a tu propio ritmo, se recomienda reservar el tiempo de las 3 clases online. Los horarios específicos de los vivos se anuncian en el canal de #avisos de Discord."
+      },
+      {
+      "id": 30,
+      "pregunta": "¿Tengo que tener algún sistema operativo específico o requisitos de computadora?",
+      "respuesta": "No es necesario un sistema operativo específico, pero sí un ordenador con acceso a internet. La mayoría de las herramientas utilizadas funcionan vía navegador o son compatibles con Windows, macOS y Linux."
+      },
+      {
+      "id": 31,
+      "pregunta": "¿En donde puedo ver la master class sobre IA?",
+      "respuesta": "Las grabaciones de las clases y sesiones especiales se comparten en los canales de aprender en la practica de Discord, dependiendo del numero de la clase."
+      }
     ]
   }
 }
