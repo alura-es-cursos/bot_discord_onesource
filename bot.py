@@ -70,7 +70,7 @@ MENSAJES = {
     "cmd_buscar_desc": "Buscar por palabras clave específicas.",
     "footer_ayuda": "💡 ¡También puedes mencionarme directamente en el chat!",
     "error_ia": "Lo siento, ocurrió un error al procesar tu respuesta. Inténtalo de nuevo más tarde.",
-    "sin_faq": "No encontré esa información en nuestro FAQ.por favor contacta a soporte escribiendo a contacto-one@aluracursos.com o contacta directamente con CMs Leti Farias o WarCap en el servidor de Discord.""
+    "sin_faq": "No encontré esa información en nuestro FAQ. Por favor contacta a soporte escribiendo a contacto-one@aluracursos.com o contacta directamente con CMs Leti Farias o WarCap en el servidor de Discord.",
 }
 
 def crear_contexto_faq():
