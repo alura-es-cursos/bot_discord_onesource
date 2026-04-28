@@ -26,7 +26,7 @@
       { "id": 18, "pregunta": "¿Necesito hacer algo para ir a la próxima fase?", "respuesta": "Sí: Obtener el certificado de la inmersión y llenar el nuevo formulario que se te enviará por correo." },
       { "id": 19, "pregunta": "¿Voy a desarrollar un proyecto?", "respuesta": "Sí, desarrollarás tu primer proyecto en IA durante la inmersión." },
       { "id": 20, "pregunta": "¿El proyecto es individual o en grupo?", "respuesta": "El proyecto es individual." },
-      { "id": 21, "pregunta": "¿Y si pierdo una clase?", "respuesta": "No te preocupes, los materiales de las clases quedan grabados y se comparten en el canal de #avisos." },
+      { "id": 21, "pregunta": "¿Y si pierdo una clase?", "respuesta": "No te preocupes, los materiales de las clases quedan grabados y se comparten en el canal de #comunicadosoficiales." },
       { "id": 22, "pregunta": "¿Puedo hacer la inmersión a mi ritmo?", "respuesta": "La inmersión tiene fechas específicas para las entregas, pero puedes realizar las actividades en tu propio horario." },
       { "id": 23, "pregunta": "¿Dónde aclaro mis dudas?", "respuesta": "En el servidor de Discord del programa." },
       { "id": 24, "pregunta": "¿Recibiré más información?", "respuesta": "Sí, el equipo enviará instrucciones detalladas a lo largo de la fase." },
@@ -41,7 +41,7 @@
       {
       "id": 29,
       "pregunta": "¿Qué horario debo reservar para la inmersión?",
-      "respuesta": "Aunque puedes realizar las actividades a tu propio ritmo, se recomienda reservar el tiempo de las 3 clases online. Los horarios específicos de los vivos se anuncian en el canal de #avisos de Discord."
+      "respuesta": "Aunque puedes realizar las actividades a tu propio ritmo, se recomienda reservar el tiempo de las 3 clases online. Los horarios específicos de los vivos se anuncian en el canal de #comunicadosoficiales de Discord."
       },
       {
       "id": 30,
