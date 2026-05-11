@@ -14,7 +14,7 @@
       { "id": 6, "pregunta": "¿Cuántas clases tendremos?", "respuesta": "Serán 3 clases online." },
       { "id": 7, "pregunta": "¿Las clases son al vivo o grabadas?", "respuesta": "Las clases son online y los materiales quedan grabados." },
       { "id": 8, "pregunta": "¿Qué contenidos serán abordados?", "respuesta": "Durante la inmersión verás: IA (Inteligencia Artificial), Automatización con n8n, RAG (Retrieval-Augmented Generation) y Agentes de IA." },
-      { "id": 9, "pregunta": "¿Necesito tener conocimiento previo?", "respuesta": "Sí, es necesario contar con conocimientos técnicos básicos. Aunque los cursos inician con contenidos introductorios, otros son más avanzados y requieren que sepas lo básico de programación para poder llevarlos a cabo con éxito." },
+      { "id": 9, "pregunta": "¿Necesito tener conocimiento previo?", "respuesta": "No es estrictamente necesario tener conocimientos previos para comenzar, aunque contar con una base técnica te ayudará en los niveles avanzados. Lo que sí es fundamental es tener un ordenador y acceso a internet para realizar el curso." },
       { "id": 10, "pregunta": "¿Dónde ocurrirán las clases?", "respuesta": "Los cursos están alojados en la plataforma de Alura, pero las clases en vivo generalmente se realizan a través de Discord o Microsoft Teams." },
       { "id": 11, "pregunta": "¿Cómo voy a acceder a la plataforma?", "respuesta": "La información de acceso se envía siempre a tu correo electrónico, pero también puedes encontrar estas instrucciones en los canales de #avisos en Discord." },
       { "id": 12, "pregunta": "¿Necesito pagar algo para acceder?", "respuesta": "No, el acceso es proporcionado por el programa." },
@@ -26,11 +26,23 @@
       { "id": 18, "pregunta": "¿Necesito hacer algo para ir a la próxima fase?", "respuesta": "Sí: Obtener el certificado de la inmersión y llenar el nuevo formulario que se te enviará por correo." },
       { "id": 19, "pregunta": "¿Voy a desarrollar un proyecto?", "respuesta": "Sí, desarrollarás tu primer proyecto en IA durante la inmersión." },
       { "id": 20, "pregunta": "¿El proyecto es individual o en grupo?", "respuesta": "El proyecto es individual." },
-      { "id": 21, "pregunta": "¿Y si pierdo una clase?", "respuesta": "No te preocupes, los materiales de las clases quedan grabados y se comparten en el canal de #avisos." },
+      { "id": 21, "pregunta": "¿Y si pierdo una clase?", "respuesta": "No te preocupes, los materiales de las clases quedan grabados y se comparten en el canal de #comunicadosoficiales." },
       { "id": 22, "pregunta": "¿Puedo hacer la inmersión a mi ritmo?", "respuesta": "La inmersión tiene fechas específicas para las entregas, pero puedes realizar las actividades en tu propio horario." },
       { "id": 23, "pregunta": "¿Dónde aclaro mis dudas?", "respuesta": "En el servidor de Discord del programa." },
       { "id": 24, "pregunta": "¿Recibiré más información?", "respuesta": "Sí, el equipo enviará instrucciones detalladas a lo largo de la fase." },
-      { "id": 25, "pregunta": "¿Cómo contacto a soporte?", "respuesta": "Puedes escribir a contacto-one@aluracursos.com o contactar a nuestras CMs Leti Farias o Roby." }
+      { "id": 25, "pregunta": "¿Cómo contacto a soporte?", "respuesta": "Puedes escribir a contacto-one@aluracursos.com o contactar a nuestras CMs Leti Farias o Roby." },
+      { "id": 26, "pregunta": "¿Cómo contacto a soporte si mi duda no está aquí?", "respuesta": "Si no encontraste la respuesta a tu pregunta, por favor contacta a soporte escribiendo a contacto-one@aluracursos.com o contacta directamente a nuestras CMs Leti Farias o Wil en el servidor de Discord." },
+      { "id": 27, "pregunta": "¿De qué trata la próxima fase después de la inmersión y qué aprenderemos?", "respuesta": "La inmersión es una previa de todo que aprenderán después. Aprenderán más a fondo acerca de IA Generativa, Agentes de IA, RAG, embedding, desarrollo, automación e inteligencia de datos con IA y todo eso." },
+      { "id": 28, "pregunta": "¿De qué trata el Cursos Tech?", "respuesta": "Es la fase de especialización técnica del programa ONE. En esta etapa tendrás acceso a rutas de aprendizaje más profundas en la plataforma de Alura para consolidar tus habilidades en IA." },
+      { "id": 29, "pregunta": "¿Qué horario debo reservar para la inmersión?", "respuesta": "Aunque puedes realizar las actividades a tu propio ritmo, se recomienda reservar el tiempo de las 3 clases online. Los horarios específicos de los vivos se anuncian en el canal de #comunicadosoficiales de Discord." },
+      { "id": 30, "pregunta": "¿Tengo que tener algún sistema operativo específico o requisitos de computadora?", "respuesta": "No es necesario un sistema operativo específico, pero sí un ordenador con acceso a internet. La mayoría de las herramientas utilizadas funcionan vía navegador o son compatibles con Windows, macOS y Linux." },
+      { "id": 31, "pregunta": "¿En donde puedo ver la master class sobre IA?", "respuesta": "Las grabaciones de las clases y sesiones especiales se comparten en los canales de aprender en la practica de Discord, dependiendo del numero de la clase." },
+      { "id": 32, "pregunta": "¿Tendré acceso a cursos como en generaciones anteriores?", "respuesta": "Los alumnos que cumplan con todos los requisitos y obtengan una beca tendrán acceso a los cursos de la fase tech." },
+      { "id": 33, "pregunta": "¿Qué contenidos se abordan en la fase tech?", "respuesta": "La fase tech no está enfocada en aprender JavaScript desde cero. Los contenidos incluyen: IA (Inteligencia Artificial), Automatización con n8n, RAG (Retrieval-Augmented Generation) y Agentes de IA." },
+      { "id": 34, "pregunta": "¿Existe una fase de introducción en el programa?", "respuesta": "No hay una fase de introducción formal. El programa está dividido en fases: Fase 1 (Inscripción) y Fase 2 (Inmersión). Si la inmersión aún no ha comenzado, sigues en la fase de inscripción." },
+      { "id": 35, "pregunta": "¿Cómo sé si ya estoy inscrito en el curso?", "respuesta": "Si recibiste el correo de la inmersión y tienes acceso a la landing page con la masterclass, tu inscripción está confirmada." },
+      { "id": 36, "pregunta": "¿Finalizar la inmersión garantiza la continuidad en el programa?", "respuesta": "No. Incluso cumpliendo todos los requisitos, las becas son limitadas. Cumplirlos te permite postularte, pero no garantiza la continuidad." },
+      { "id": 37, "pregunta": "¿Los menores de edad pueden participar en el programa?", "respuesta": "No. Para participar en el programa ONE, es necesario tener al menos 18 años." }
     ]
   }
 }

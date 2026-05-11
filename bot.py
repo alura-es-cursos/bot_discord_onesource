@@ -1,11 +1,13 @@
 import sys
 import logging
+import threading
 import discord
 from discord.ext import commands
 import json
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
+from webserver import keep_alive
 
 sys.stdout.reconfigure(encoding='utf-8')
 logging.basicConfig(level=logging.INFO)
@@ -68,7 +70,7 @@ MENSAJES = {
     "cmd_buscar_desc": "Buscar por palabras clave específicas.",
     "footer_ayuda": "💡 ¡También puedes mencionarme directamente en el chat!",
     "error_ia": "Lo siento, ocurrió un error al procesar tu respuesta. Inténtalo de nuevo más tarde.",
-    "sin_faq": "No encontré esa información en nuestro FAQ. Contacta a soporte@plataforma.com."
+    "sin_faq": "No encontré esa información en nuestro FAQ. Por favor contacta a soporte escribiendo a contacto-one@aluracursos.com o contacta directamente con CMs Leti Farias o WarCap en el servidor de Discord."
 }
 
 def crear_contexto_faq():
@@ -230,4 +232,5 @@ if __name__ == "__main__":
     if not DISCORD_TOKEN or not OPENAI_API_KEY:
         print("❌ ERROR: Verifica las claves DISCORD_TOKEN y OPENAI_API_KEY en el .env")
     else:
+        keep_alive()
         bot.run(DISCORD_TOKEN)
